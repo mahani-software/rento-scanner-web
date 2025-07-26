@@ -6,12 +6,12 @@ const Header = () => {
     const [menuOpen, setMenuOpen] = useState(false);
 
     return (
-        <header className="bg-lime-600 text-white p-4 px-[5%]">
+        <header className="bg-lime-600 text-white p-2 px-[5%]">
             <div className="flex justify-between items-center">
                 <div className="flex items-center">
                     {/* Logo and Company Name */}
-                    <img src={logo} alt="Logo" className="h-10 w-18 mr-5" />
-                    <div className="font-bold text-xl">rento-scanner</div>
+                    <img src={logo} alt="Logo" className="h-10 lg:h-14 w-18 lg:w-24 mr-5" />
+                    <div className="font-bold sm:text-md text-2xl md:text-3xl lg:text-4xl">rento-scanner</div>
                 </div>
                 <nav className="lg:flex hidden">
                     <a href="#" className="text-white mx-4">Home</a>
