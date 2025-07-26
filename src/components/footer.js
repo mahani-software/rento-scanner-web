@@ -1,6 +1,6 @@
 /* eslint-disable */
 import React from 'react';
-import mahaniLogo from "../images/logo192.png"; // Import the logo
+import redsaaLogo from "../images/redsaas-logo.png";
 
 const Footer = () => {
     return (
@@ -10,8 +10,7 @@ const Footer = () => {
                 <div className="flex items-center text-center lg:text-right mt-4 lg:mt-0">
                     <p className="flex items-center whitespace-nowrap">
                         Powered by <span className="mx-3">|</span>
-                        <img src={mahaniLogo} alt="Mahani Business Manager" className="h-6 w-6 mx-2" />
-                        Mahani Business Manager.
+                        <img src={redsaaLogo} alt="Redsaas" className="h-6 w-36 mx-2" />
                     </p>
                 </div>
             </div>
