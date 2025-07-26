@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2693d427.css",
+    "main.js": "/static/js/main.000d4a78.js",
+    "static/js/488.f45acf49.chunk.js": "/static/js/488.f45acf49.chunk.js",
+    "static/media/redsaas-logo.png": "/static/media/redsaas-logo.daa7a85ce675ce61760d.png",
+    "static/media/rento-scanner-logo.png": "/static/media/rento-scanner-logo.98487a51abc9b26a423f.png",
+    "index.html": "/index.html",
+    "main.2693d427.css.map": "/static/css/main.2693d427.css.map",
+    "main.000d4a78.js.map": "/static/js/main.000d4a78.js.map",
+    "488.f45acf49.chunk.js.map": "/static/js/488.f45acf49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2693d427.css",
+    "static/js/main.000d4a78.js"
+  ]
+}
