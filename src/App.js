@@ -9,12 +9,12 @@ import Footer from './components/footer';
 const App = () => {
   const rentalUnits = [
     {
-      mainImage: "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/imge5.jpeg",
+      mainImage: "https://storage.googleapis.com/rento-scanner-public-assets/img001.jpeg",
       thumbnails: [
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img2.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img3.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img4.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img8.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img001.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img002.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img003.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img004.jpeg",
       ],
       title: "Beautiful 3-Bedroom House",
       location: "123 Elm Street, Springfield",
@@ -26,12 +26,12 @@ const App = () => {
       }
     },
     {
-      mainImage: "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img6.jpeg",
+      mainImage: "https://storage.googleapis.com/rento-scanner-public-assets/img005.jpeg",
       thumbnails: [
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img7.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img8.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img9.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img10.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img005.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img006.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img007.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img008.jpeg",
       ],
       title: "Self contained-single rooms",
       location: "456 Oak Street, Springfield",
@@ -43,12 +43,12 @@ const App = () => {
       }
     },
     {
-      mainImage: "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img3.jpeg",
+      mainImage: "https://storage.googleapis.com/rento-scanner-public-assets/img012.jpeg",
       thumbnails: [
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img2.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/imge5.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img4.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img8.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img009.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img010.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img011.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img012.jpeg",
       ],
       title: "Beautiful 3-Bedroom House",
       location: "123 Elm Street, Springfield",
@@ -60,12 +60,12 @@ const App = () => {
       }
     },
     {
-      mainImage: "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img9.jpeg",
+      mainImage: "https://storage.googleapis.com/rento-scanner-public-assets/img016.jpeg",
       thumbnails: [
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img7.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img8.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img6.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img10.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img013.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img015.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img016.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img017.jpeg",
       ],
       title: "Modern 2-Bedroom Apartment",
       location: "456 Oak Street, Springfield",
@@ -77,12 +77,12 @@ const App = () => {
       }
     },
     {
-      mainImage: "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img2.jpeg",
+      mainImage: "https://storage.googleapis.com/rento-scanner-public-assets/img021.jpeg",
       thumbnails: [
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img3.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/imge5.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img4.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img8.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img018.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img019.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img020.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img021.jpeg",
       ],
       title: "Beautiful 3-Bedroom House",
       location: "123 Elm Street, Springfield",
@@ -94,12 +94,12 @@ const App = () => {
       }
     },
     {
-      mainImage: "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img10.jpeg",
+      mainImage: "https://storage.googleapis.com/rento-scanner-public-assets/img019.jpeg",
       thumbnails: [
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img9.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img8.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img6.jpeg",
-        "https://storage.googleapis.com/reech-gcp-assets-repo/rentals-pics/img10.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img018.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img019.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img020.jpeg",
+        "https://storage.googleapis.com/rento-scanner-public-assets/img021.jpeg",
       ],
       title: "Modern 2-Bedroom Apartment",
       location: "456 Oak Street, Springfield",
