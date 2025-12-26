@@ -21,8 +21,8 @@ const App = () => {
       price: "$2,000/month",
       description: "This is a beautiful 3-bedroom house located in a quiet neighborhood. It features a large living room, a modern kitchen, and a spacious backyard perfect for family gatherings.",
       contact: {
-        phone: "123-456-7890",
-        email: "owner@example.com"
+        phone: "+256 781 224508",
+        email: "rodgersmahani@gmail.com"
       }
     },
     {
@@ -38,8 +38,8 @@ const App = () => {
       price: "$1,500/month",
       description: "This 2-bedroom apartment offers modern amenities, with a spacious living area, new appliances, and great access to public transportation.",
       contact: {
-        phone: "987-654-3210",
-        email: "apartmentowner@example.com"
+        phone: "+256 781 224508",
+        email: "rodgersmahani@gmail.com"
       }
     },
     {
@@ -55,8 +55,8 @@ const App = () => {
       price: "$2,000/month",
       description: "This is a beautiful 3-bedroom house located in a quiet neighborhood. It features a large living room, a modern kitchen, and a spacious backyard perfect for family gatherings.",
       contact: {
-        phone: "123-456-7890",
-        email: "owner@example.com"
+        phone: "+256 781 224508",
+        email: "rodgersmahani@gmail.com"
       }
     },
     {
@@ -72,8 +72,8 @@ const App = () => {
       price: "$1,500/month",
       description: "This 2-bedroom apartment offers modern amenities, with a spacious living area, new appliances, and great access to public transportation.",
       contact: {
-        phone: "987-654-3210",
-        email: "apartmentowner@example.com"
+        phone: "+256 781 224508",
+        email: "rodgersmahani@gmail.com"
       }
     },
     {
@@ -89,8 +89,8 @@ const App = () => {
       price: "$2,000/month",
       description: "This is a beautiful 3-bedroom house located in a quiet neighborhood. It features a large living room, a modern kitchen, and a spacious backyard perfect for family gatherings.",
       contact: {
-        phone: "123-456-7890",
-        email: "owner@example.com"
+        phone: "+256 781 224508",
+        email: "rodgersmahani@gmail.com"
       }
     },
     {
@@ -106,8 +106,8 @@ const App = () => {
       price: "$1,500/month",
       description: "This 2-bedroom apartment offers modern amenities, with a spacious living area, new appliances, and great access to public transportation.",
       contact: {
-        phone: "987-654-3210",
-        email: "apartmentowner@example.com"
+        phone: "+256 781 224508",
+        email: "rodgersmahani@gmail.com"
       }
     }
   ];
